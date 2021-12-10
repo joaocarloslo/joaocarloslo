@@ -1,7 +1,8 @@
-### Hi there 👋
+## Olá Mundo 👋
 
-<!--
-**joaocarloslo/joaocarloslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joaocarloslopes369/)
+[![followersGit](https://img.shields.io/github/followers/joaocarloslo?style=social)](https://github.com/joaocarloslo)
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Tecnologias Utilizadas
+
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarloslo&show_icons=true&locale=en" alt="João Carlos Lopes Alves" />
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoleitedasilva&layout=compact)](https://github.com/adrianoleitedasilva)
